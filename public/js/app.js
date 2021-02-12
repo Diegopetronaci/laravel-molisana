@@ -19378,6 +19378,9 @@ module.exports = function(module) {
 /***/ (function(module, exports, __webpack_require__) {
 
 __webpack_require__(/*! ./bootstrap */ "./resources/js/bootstrap.js");
+/* $lunga = [];
+$media = [];
+$corta = []; */
 
 /***/ }),
 
@@ -19431,8 +19434,8 @@ window.axios.defaults.headers.common['X-Requested-With'] = 'XMLHttpRequest';
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\Diego\Desktop\Corso_boolean\consegne\mese_5\laravel-molisana\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\Diego\Desktop\Corso_boolean\consegne\mese_5\laravel-molisana\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! C:\Users\Diego\Desktop\Corso Boolean\consegne\mese 5\laravel-molisana\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! C:\Users\Diego\Desktop\Corso Boolean\consegne\mese 5\laravel-molisana\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

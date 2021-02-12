@@ -40,7 +40,9 @@ main {
   background-image: url("/img/fondo-pag.jpg");
 }
 
-.titoletto > h1 {
+.titolo {
+  display: flex;
+  justify-content: center;
   color: #002d75;
 }
 
