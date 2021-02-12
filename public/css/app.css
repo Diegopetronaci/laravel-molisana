@@ -1,0 +1,57 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.sfondo_verde {
+  background-color: #b1d281;
+}
+
+.flex_wrap {
+  flex-wrap: wrap;
+}
+
+.d_flex {
+  display: flex;
+}
+
+.flex_center {
+  justify-content: center;
+}
+
+header img {
+  height: 200px;
+}
+
+.sfondo_verde > a {
+  text-decoration: none;
+  padding: 25px;
+  font-weight: 900;
+  color: white;
+}
+
+.sfondo_verde > a:hover {
+  text-decoration: underline;
+  color: #002d75;
+}
+
+main {
+  background-image: url("/img/fondo-pag.jpg");
+}
+
+.titoletto > h1 {
+  color: #002d75;
+}
+
+.card {
+  width: 400px;
+  height: 250px;
+  margin: 20px;
+}
+
+.card > img {
+  width: 400px;
+  height: 250px;
+}
+
